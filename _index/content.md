@@ -1,5 +1,5 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
+profileimage: ""
 name: "Benjamin Yang"
 title: "Full Stack Web Developer"
 ---
